@@ -30,7 +30,7 @@ const Home = () => {
                     </Button>
                   </Link>
                   <Link to="/about">
-                    <Button size="lg" variant="outline" className="border-white text-white hover:bg-white/20">
+                    <Button size="lg" variant="outline" className="border-white text-health-blue-600 hover:bg-white/20">
                       Learn More
                     </Button>
                   </Link>
